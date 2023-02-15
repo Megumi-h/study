@@ -1,0 +1,4 @@
+﻿  hello.cpp
+D:\Users\Megumi\source\repos\Project1\Project1\hello.cpp(7,6): error C2146: 语法错误: 缺少“;”(在标识符“cin”的前面)
+D:\Users\Megumi\source\repos\Project1\Project1\hello.cpp(7,2): warning C4551: 缺少参数列表的函数调用
+D:\Users\Megumi\source\repos\Project1\Project1\hello.cpp(7,6): error C2064: 项不会计算为接受 0 个参数的函数
